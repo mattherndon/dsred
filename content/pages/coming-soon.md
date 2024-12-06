@@ -3,7 +3,7 @@ type: PageLayout
 title: Coming Soon
 sections: []
 slug: coming-soon
-isDraft: false
+isDraft: true
 seo:
   type: Seo
   metaTitle: Coming Soon
