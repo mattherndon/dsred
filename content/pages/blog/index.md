@@ -37,7 +37,7 @@ seo:
     readers an engaging experience filled with unique insights and perspectives.
     Dive into thought-provoking content that inspires conversation and reflects
     how we all see the world.
-  socialImage: /images/img-placeholder.svg
+  socialImage: /images/cover-sm_journal-min.jpg
   type: Seo
   metaTags: []
 type: PostFeedLayout
