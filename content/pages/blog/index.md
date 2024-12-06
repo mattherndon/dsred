@@ -31,7 +31,7 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
+  metaTitle: Journal - Blog articles based on personal views and opinions in my life.
   metaDescription: >-
     This is the blog of the demo site where we post about technology, product,
     and design.
