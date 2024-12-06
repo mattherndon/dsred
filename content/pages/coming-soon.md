@@ -7,7 +7,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Coming Soon
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: Dead Skull Red is coming soon!
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
