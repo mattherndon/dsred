@@ -9,6 +9,6 @@ seo:
   metaTitle: Coming Soon
   metaDescription: Dead Skull Red is coming soon!
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/cover-sm_journal-min.jpg
   metaTags: []
 ---
