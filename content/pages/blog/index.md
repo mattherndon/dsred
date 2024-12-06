@@ -33,8 +33,10 @@ styles:
 seo:
   metaTitle: Journal - Blog articles that reflect personal views and opinions.
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
+    Blog articles that capture authentic personal views and opinions, offering
+    readers an engaging experience filled with unique insights and perspectives.
+    Dive into thought-provoking content that inspires conversation and reflects
+    how we all see the world.
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
