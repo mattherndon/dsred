@@ -1,5 +1,5 @@
 ---
-title: Reading
+title: Journal
 slug: /blog
 numOfPostsPerPage: 12
 enableSearch: true
