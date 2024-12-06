@@ -39,6 +39,8 @@ seo:
     how we all see the world.
   socialImage: /images/img-placeholder.svg
   type: Seo
+  metaTags:
+    - type: MetaTag
 type: PostFeedLayout
 bottomSections: []
 postFeed:
